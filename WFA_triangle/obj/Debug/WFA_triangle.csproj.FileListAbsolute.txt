@@ -1,0 +1,11 @@
+C:\Users\Ярослава\source\repos\WFA_triangle\WFA_triangle\bin\Debug\WFA_triangle.exe.config
+C:\Users\Ярослава\source\repos\WFA_triangle\WFA_triangle\bin\Debug\WFA_triangle.exe
+C:\Users\Ярослава\source\repos\WFA_triangle\WFA_triangle\bin\Debug\WFA_triangle.pdb
+C:\Users\Ярослава\source\repos\WFA_triangle\WFA_triangle\obj\Debug\WFA_triangle.csproj.AssemblyReference.cache
+C:\Users\Ярослава\source\repos\WFA_triangle\WFA_triangle\obj\Debug\WFA_triangle.MainForm.resources
+C:\Users\Ярослава\source\repos\WFA_triangle\WFA_triangle\obj\Debug\WFA_triangle.Properties.Resources.resources
+C:\Users\Ярослава\source\repos\WFA_triangle\WFA_triangle\obj\Debug\WFA_triangle.csproj.GenerateResource.cache
+C:\Users\Ярослава\source\repos\WFA_triangle\WFA_triangle\obj\Debug\WFA_triangle.csproj.CoreCompileInputs.cache
+C:\Users\Ярослава\source\repos\WFA_triangle\WFA_triangle\obj\Debug\WFA_triangle.exe
+C:\Users\Ярослава\source\repos\WFA_triangle\WFA_triangle\obj\Debug\WFA_triangle.pdb
+C:\Users\Ярослава\source\repos\WFA_triangle\WFA_triangle\obj\Debug\WFA_triangle.AddForm.resources
